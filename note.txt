@@ -93,4 +93,8 @@ px
     + dễ dàng quản lý Code
     + tái sử dụng
 
+2. Các khái niệm trong CSS
+2.1. Property
+2.2.
+2.3.
 

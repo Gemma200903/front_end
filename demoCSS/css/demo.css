@@ -1,3 +1,52 @@
+/* 
+h4: selector
+text-align: property
+center: value
+
+*/
+
+/* tag name */
 h4{
     text-align: center;
 }
+
+/* class name */
+.heading3{
+    background-color: greenyellow;
+}
+
+/* id */
+#title3{
+    color: blue;
+}
+
+.section1 p{
+    font-size: 20px;
+}
+/* Cách viết 2:
+
+.section1 > p{
+    font-size: 20px;
+}
+
+Dấu > chỉ áp dụng cho thẻ p gần nhất
+
+*/
+.section1 span{
+    color: red;
+}
+/* 
++ chỉ thay đổi thẻ h5 gần nhất cùng cấp với thẻ div
+
+~ thay đổi tất cả thuộc tính cùng cấp với thẻ div
+
+*/
+div + h5{
+    color: blueviolet;
+}
+/* 
+>
++
+~
+Các dấu trên ít sử dụng
+*/
