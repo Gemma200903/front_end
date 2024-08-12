@@ -76,5 +76,21 @@ px
 
 
 
+----- CSS (Cascading Style Sheets)/ CSS thuần
+
+- Ngôn ngữ định dạng cho các phần tử HTML và bố cục của trang web.
+- Giúp lập trình viên tiết kiệm công sức và thời gian
+- Tái sử dụng
+
+1. Phân loại CSS (3 loại)
+- inline css (ít sử dụng)
+    + Code dài hơn
+    + Mất thời gian
+- internal css (ít sử dụng)
+    + Khó chỉnh sửa
+    + Mất thời gian
+- external css (được sử dụng nhiều nhất)
+    + dễ dàng quản lý Code
+    + tái sử dụng
 
 
