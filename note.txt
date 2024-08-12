@@ -1,0 +1,80 @@
+Monday, August 12, 2024.
+
+
+1. Comment: ctrl + /
+2. Cài extension:
+- Live Server/ Open in browser: để chạy.
+- Auto Rename Tag: chỉ cần sửa tag mở thì tag đóng tự động sựa theo.
+
+
+------  HTML Heading  ------
+
+- Sử dụng các thẻ h1 ddessn h6 để hiển thị các tiêu đề trong trang web.
+- Các thẻ heading khác nhau về kích thước của chữ.
+- Kích thước của chữ sẽ giảm dần từ h1 đến h6.
+
+------  Thuộc tính của thẻ HTML  ------
+
+1. Thuộc tính Style
+- color: màu chữ 
+- background-color: màu nền
+- font-size: kích thước chữ
+- text-align: căn lề
+- height: chiều cao
+- width: chiều rộng
+- border: độ 
+
+2. Thuộc tính của thẻ <hr>
+-  noshade (chỉ có thẻ hr có): độ bóng của thẻ
+
+3. Thuộc tính target
+_blank: tải trang web vào cửa sổ mới.
+_self: tải trang web vào chính cửa sổ hiện hành (mặc định)
+
+
+
+
+------  ý nghĩa các thẻ  ------
+1. Thẻ <b></b>: chữ in đậm trong đoạn văn.
+2. Thẻ <i></i>: chữ nghiêng trong đoạn văn.
+3. Thẻ <br>: xuống dòng trong đoạn văn
+4. Thẻ <span></span>
+5. Thẻ <hr>: đường gạch, không có nội dung
+6. Tag List:
+- Thẻ danh sách không có thứ tự <ul></ul>
+- Thẻ danh sách có thứ tự <ol></ol>
+7. Tag img:
+- Đường dẫn tuyệt đối
+- Đường dẫn tương đối:
+    ./: thư mục hiện tại của website sử dụng link (mặc định)
+    ../: quay về thư mục cha (đi ngược lại 1 cấp thư mục)
+8. Thẻ liên kết (anchor)
+- Liên kết ngoại: giúp di chuyển qua 1 trang web khác
+- Liên kết nội: thay đổi vị trí đọc nội dung. Ví dụ như kiểu back to top.
+- Liên kết email
+- Liên kết phone
+
+9. Thẻ table
+    table: khởi tạo 1 bảng
+    tr: hàng
+    th: tiêu đề
+    td: ô
+ - Gom theo hàng: rowspan
+
+----- Đơn vị tuyệt đối -----
+px
+
+----- Đơn vị tương đối -----
+%: thay đổi dựa vào thẻ cha bên ngoài (thẻ cha gần nhất)
+
+----- Thẻ block
+- Chiếm độ rộng 100%
+
+----- Thẻ inline
+- Nằm chung 1 hàng
+
+
+
+
+
+
